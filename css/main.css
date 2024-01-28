@@ -2271,6 +2271,9 @@ ul.breadcrumb li:last-child {
     color: #eee;
   }
 }
+.utterances {
+  max-width: unset;
+}
 .search-active {
   overflow: hidden;
 }
@@ -2724,10 +2727,6 @@ header.header {
   .comments {
     padding: 10px 12px;
   }
-}
-.giscus {
-  max-width: unset;
-  box-sizing: border-box;
 }
 body {
   background: url("https://pic.imgdb.cn/item/65ad3cb7871b83018aa168d0.jpg");
