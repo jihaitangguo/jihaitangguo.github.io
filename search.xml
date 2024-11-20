@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>测试</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>测试。</p>
+]]></content>
+  </entry>
 </search>
